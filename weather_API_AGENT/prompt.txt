@@ -1,0 +1,7 @@
+The current weather in {city} is:
+    - {description}
+    - Temperature: {temp}°C
+    - Feels like: {feels_like}°C
+    - Humidity: {humidity}%
+
+Based on this weather, suggest useful precautions or tips for someone in this city today.
